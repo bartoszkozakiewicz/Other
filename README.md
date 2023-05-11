@@ -9,7 +9,7 @@
 
 - ***workfinder_pracujpl.py*** -> Application to filter job offers on pracuj.pl website. It can be used for other than DataScience Sections, also skills can be chosen as needed, depending on user. It takes: job name, company name, job link, offer expire date, required skills and creates DataFrame from it - saving excel file then.
 
-    - <u>Web scraping</u>*:  BeautifulSoup, requests
+    - <ins>Web scraping</ins>:  BeautifulSoup, requests
 
 ![image](https://github.com/bartoszkozakiewicz/Other/assets/105235140/cb148417-2f72-443b-8310-5a203c09a7d6)
 
