@@ -1,5 +1,7 @@
 # Other
-Something for fun or own usage.
+<p align="center">
+  <b>Something for fun or own usage.</b>
+</p>
 
 - ***Hand_Manipulating_cv2_mp*** -> As of today, mini project to start to familiarize myself with interesting subject of mediapipe and its usage. For now, it includes volume control and mouse control (including clicking and screen manipulation) using hand gestures.
 
